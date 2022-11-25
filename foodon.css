@@ -1,0 +1,115 @@
+.stylinglogo{
+    width: 40px;
+    height: 40px;
+    padding:5px;
+}
+#go{
+    background-color:rgb(54, 52, 52);
+    color:whitesmoke;
+    border:0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+#go:hover{
+    background-color:rgb(224, 62, 62);
+    color:white;
+}
+.bgimg{
+    background-image: url("https://res.cloudinary.com/digdliiab/image/upload/v1669373991/photo-1600891964599-f61ba0e24092_dpgjtg.jpg");
+    background-size: cover;
+    height:75vh;
+}
+.bgimg:hover{
+    opacity: 0.8;
+}
+.head1{
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 80px;
+}
+.paraline{
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:800;
+    font-size: 20px;
+}
+.carding{
+text-align: center;
+background-color: white;
+border-style:solid;
+border-width: 1px;
+border-color:#d9dde6;
+border-radius: 16px;
+}
+.carding:hover{
+    transform: scale(1.04);
+}
+.head2{
+    color:rgb(19, 18, 18);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+.para2{
+    color: #5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.chead{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(212, 33, 33);
+    background-color: rgb(249, 246, 246);
+}
+.cpara{
+    color:#7b8794;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 16px;
+}
+.cimage{
+    height:160px;
+    width:200px;
+    padding:25px;
+}
+.card-title{
+    font-weight:800px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-text{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5a7184;
+}
+.hicard{
+    background-color:white;
+    color: black;
+    margin: 7px;
+    text-align: center;
+border-style:solid;
+border-width: 1px;
+border-color:#d9dde6;
+border-radius: 16px;
+padding-bottom: 10px;
+}
+.imageres{
+    width: 120px;
+    height:130px;
+    padding-top: 10px;
+}
+.hicard:hover{
+    transform: scaleX(1.08);
+}
+.head2{
+    color:rgb(19, 18, 18);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+.my{
+    color: red;
+}
+
+
+
